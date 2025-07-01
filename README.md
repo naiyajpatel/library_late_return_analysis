@@ -70,6 +70,7 @@ Key Insights:
 4. Books priced > $400, with >1100 pages, or in Agriculture categories show higher late return rates.
 5. Missing education information also correlates with higher late return likelihood.
 6. Certain authors (e.g., Khan & Jain) and book titles are disproportionately late.
+7. Logistic regression model performed poor in predicting late returns due to major imbalance in classes
 
 Recommendations:
 
@@ -80,7 +81,10 @@ Recommendations:
 5. Tag high-risk books (based on author/category) for shorter checkout duration or limit renewals
 6. Embed model in the library system to flag high-risk checkouts in real time
 7. Improve data collection, especially for missing user attributes (e.g., education)
+8. Initiating pilot project at high risk branch to collect more late returns data to build strong model capable of using in library settings by employees
 
 Next steps: 
 
-Due to very poor model built due to imbalanced class weights, we will ask for initiating pilot project at high risk late return branch of library (205 NE Russell St, Portland, Oregon) where we can collect more data and build stronger model to predict late returns which can help staff to take action on possible late returns before time
+To build strong model: 
+
+Due to very poor model built because of imbalanced class weights, we will ask for initiating pilot project at high risk late return branch of library (205 NE Russell St, Portland, Oregon) where we can collect more data and build stronger model to predict late returns which can help staff to take action on possible late returns before time
