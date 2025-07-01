@@ -21,6 +21,7 @@ Steps performed from start to end in the project:
 7. Odds Ratio
 8. Insights and Recommendations
 9. Explanation: How to present them to get buy-in?
+10. References: few data are taken or verified from google maps
 
 
 Modeling Approach:
