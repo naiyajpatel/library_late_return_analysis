@@ -22,6 +22,7 @@ Steps performed from start to end in the project:
 8. Insights and Recommendations
 9. Explanation: How to present them to get buy-in?
 
+
 Modeling Approach:
 
 1. Model used: Logistic Regression
@@ -31,21 +32,32 @@ Modeling Approach:
 5. Metrics evaluated: Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC-AUC Curve
 6. Odds Ratios for feature interpretability
 
+
 Images: 
 
-1. ![late_return_by_title](https://github.com/user-attachments/assets/18baf4bd-d395-466f-a104-28ba103ecfcf) - Highest late returns based on book title
-2. ![late_return_by_pages](https://github.com/user-attachments/assets/bcca70d9-ae05-40cf-baa0-6f51dd61d6e8) - Highest late returns based on pages of book
-3. ![late_return_by_price](https://github.com/user-attachments/assets/b89bf903-1f8e-41be-94f9-0ebec3e4bd7b) - Highest late returns based on price of the book
-4. ![late_return_by_authors](https://github.com/user-attachments/assets/4f892b9b-f22b-4fdc-857d-5bd8d91ff11a) - Highest late returns based on authors of the book
-5. ![late_return_by_categories](https://github.com/user-attachments/assets/5ef8bc56-d49a-4522-88f6-cfc9b9a2a8e9) - highest late returns on categories of the book
-6. ![late_return_by_gender](https://github.com/user-attachments/assets/5925959c-f9c4-4fae-9127-ac56c5c793c9) - highest late returns based on gender of customers
-7. ![late_return_by_education](https://github.com/user-attachments/assets/afd3f297-d947-4804-85bf-c19f501cc4a6) - highest late returns based on education of the customers
-8. ![late_return_by_occupation](https://github.com/user-attachments/assets/7521da99-84d6-4a3b-b98d-faf9c2e96367) - highest lata returns based on occupation of the customer
-9. ![late_return_by_age_group](https://github.com/user-attachments/assets/84e1d66f-4ca3-4dc1-bc75-64911c40e97f) - highest late returns based on age group of the customer
-10. ![Late_return_by_checkout_month](https://github.com/user-attachments/assets/d75b2079-a6cd-4bfb-bb7e-c85b2ef9331c) - highest late returns based on checkout month
-11. ![confusion_matrix_train](https://github.com/user-attachments/assets/96db3fb2-2fbb-4e13-a473-fdf658bf3901) - confusion matrix of Log Reg model of train set
-12. ![cm_test](https://github.com/user-attachments/assets/f87b8b3d-43ed-4a3c-8a84-890236caa63d) - confusion matrix of Log Reg model of test set
-13. ![ROC_curve_test](https://github.com/user-attachments/assets/c9d6f486-beb4-4274-9f81-6ba451d782fc) - ROC curve of test model
+![late_return_by_title](https://github.com/user-attachments/assets/18baf4bd-d395-466f-a104-28ba103ecfcf) - Highest late returns based on book title
+
+![late_return_by_pages](https://github.com/user-attachments/assets/bcca70d9-ae05-40cf-baa0-6f51dd61d6e8) - Highest late returns based on pages of book
+
+![late_return_by_price](https://github.com/user-attachments/assets/b89bf903-1f8e-41be-94f9-0ebec3e4bd7b) - Highest late returns based on price of the book
+
+![late_return_by_authors](https://github.com/user-attachments/assets/4f892b9b-f22b-4fdc-857d-5bd8d91ff11a) - Highest late returns based on authors of the book
+
+![late_return_by_categories](https://github.com/user-attachments/assets/5ef8bc56-d49a-4522-88f6-cfc9b9a2a8e9) - highest late returns on categories of the book
+
+![late_return_by_gender](https://github.com/user-attachments/assets/5925959c-f9c4-4fae-9127-ac56c5c793c9) - highest late returns based on gender of customers
+
+![late_return_by_education](https://github.com/user-attachments/assets/afd3f297-d947-4804-85bf-c19f501cc4a6) - highest late returns based on education of the customers
+
+![late_return_by_occupation](https://github.com/user-attachments/assets/7521da99-84d6-4a3b-b98d-faf9c2e96367) - highest lata returns based on occupation of the customer
+
+![late_return_by_age_group](https://github.com/user-attachments/assets/84e1d66f-4ca3-4dc1-bc75-64911c40e97f) - highest late returns based on age group of the customer
+
+![Late_return_by_checkout_month](https://github.com/user-attachments/assets/d75b2079-a6cd-4bfb-bb7e-c85b2ef9331c) - highest late returns based on checkout month
+
+![confusion_matrix_train](https://github.com/user-attachments/assets/96db3fb2-2fbb-4e13-a473-fdf658bf3901) - confusion matrix of Log Reg model of train and test set
+
+![ROC_curve_test](https://github.com/user-attachments/assets/c9d6f486-beb4-4274-9f81-6ba451d782fc) - ROC curve of test model
 
 
 
